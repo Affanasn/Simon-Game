@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.p{
+    height: 150px;
+    width: 150px;
+    border: 10px solid #000000;
+    border-radius: 20%;
+    background-color: rgba(249, 49, 83, 0.868);
+    margin: 2.5rem;
+}
+
+.g{
+    height: 150px;
+    width: 150px;
+    border: 10px solid #000000;
+    border-radius: 20%;
+    background-color: rgba(6, 137, 104, 0.868);
+    margin: 2.5rem;
+}
+
+.y{
+    height: 150px;
+    width: 150px;
+    border: 10px solid #000000;
+    border-radius: 20%;
+    background-color: rgb(255, 130, 27);
+    margin: 2.5rem;
+}
+
+.b{
+    height: 150px;
+    width: 150px;
+    border: 10px solid #000000;
+    border-radius: 20%;
+    background-color: rgba(87, 68, 190, 0.868);
+    margin: 2.5rem;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: green;
+}
